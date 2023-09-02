@@ -1,6 +1,6 @@
 # Weather App
 
-![Weather App](assets/weather-app-screenshot.png)
+![Weather App](assets/weather-app-screenshot.PNG)
 
 The Weather App is a simple web application that allows users to check the current weather temperature in various cities. It provides a user-friendly interface with a dropdown menu for city selection and a button to fetch and display weather data. This README will guide you through the project's features, setup, and customization options.
 
